@@ -8,7 +8,6 @@ class LoginScreen extends StatefulWidget {
 
 class _LoginScreenState extends State<LoginScreen> {
   final _phoneController = TextEditingController();
-  final _codeController = TextEditingController();
 
   // Future<bool> loginUser(String phone, BuildContext context) async {
   //   FirebaseAuth _auth = FirebaseAuth.instance;

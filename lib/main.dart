@@ -1,6 +1,5 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:liveasy_project/screens/homeScreen.dart';
 import 'package:liveasy_project/screens/loginScreen.dart';
 
 void initialize() async {
